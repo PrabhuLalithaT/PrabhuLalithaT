@@ -7,7 +7,7 @@
 
 <!-- ✨ Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF0099&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Prabhu+Lalitha+Tummalapalli;🚀+Software+Project+Engineer+%7C+AI+Innovator;💡+Creating+Scalable+%26+Ethical+Digital+Systems;🎓+MS+in+Information+Systems+@+Northeastern"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF0099&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Prabhu+Lalitha+Tummalapalli;🚀+Software+Project+Engineer+%7C+AI+Innovator;💡+Creating+Scalable+%26+Ethical+Digital+Systems;🎓+MS+in+Computer+Software+Engineering+@+Northeastern"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 🌟 Welcome to My Creative Tech Space  
 I'm a **Software Project Engineer** passionate about crafting **AI-driven, cloud-native systems** with a focus on scalability, inclusivity, and human-centered design.  
-Currently pursuing my **MS in Information Systems @ Northeastern University (Boston)**, I merge **AI, Cloud, and UX** to solve real-world challenges.
+Currently pursuing my **MS in Computer Software Engineering @ Northeastern University (Boston)**, I merge **AI, Cloud, and UX** to solve real-world challenges.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF0099?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhu-lalitha-a8wbg0b.gamma.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrabhuLalithaT-6A00F4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhulalithat/)
